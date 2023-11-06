@@ -1,6 +1,6 @@
 # 👋🏻 Pâmela Ascef Cazarini
 
-Estudante de pós-graduação em Full Stack Java Developer pela Faculdade de Maringá-PR que tem foco em desenvolver a carreira com foco em Javascript, HTML, CSS mas também que se propõe novos desafios para não desatualizada na área da tecnologia. Tem como hobbies passeios à natureza, escutar boas músicas e jogar games.
+Estudante de pós-graduação em Full Stack Java Developer pela Faculdade de Maringá-PR que tem foco em desenvolver a carreira inicial baseado nas linguaguens de Javascript, HTML, CSS mas também que se propõe novos desafios para não ficar desatualizada na área da tecnologia. Tem como hobbies passeios à natureza, escutar boas músicas e jogar games.
 
 ### Conecte-se comigo
 
