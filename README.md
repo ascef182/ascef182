@@ -11,7 +11,7 @@ Currently participating in the Game Development Bootcamp at DIO.me.
 
 ### Connect with Me
 
-[![Profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/ascefpam)
+[![Profile DIO](https://img.shields.io/badge/-Profile%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/ascefpam)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](ascefpam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/p%C3%A2mela-ascef-cazarini-7241b1153/)
 
