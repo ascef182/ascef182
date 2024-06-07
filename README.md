@@ -18,7 +18,7 @@ Postgraduate in Full Stack JAVA Developer<br />
 
 ### Skills
 
-- Tecnologies: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Prisma DB, Java
+- Technologies: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Prisma DB, Java
 - Version Control: Git
 - Collaboration Platform: GitHub </br>
 
