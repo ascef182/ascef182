@@ -35,9 +35,5 @@ Student Google Cloud Security
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascef182&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)</br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ascef182&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)</br>
-### GitHub Streak
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ascef182&background=000&dates=E94D5F&ring=E94D5F&fire=E94D5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E94D5F&sideLabels=E94D5F)
-
 
 
