@@ -7,9 +7,10 @@
 
 Bachelor's degree in Environmental Management from the Federal University of Viçosa.<br />
 Postgraduate in Full Stack JAVA Developer<br />
-Bootcamp FrontEnd with Angular
-Bootcamp JavaScript
-Student Google Cloud Security
+Bootcamp FrontEnd with Angular<br />
+Bootcamp JavaScript<br />
+Student Google Cloud Security<br />
+SOC Fundamentals<br />
 
 ### Connect with Me
 
