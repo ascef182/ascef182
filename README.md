@@ -1,76 +1,87 @@
-# 👋 Hi, I'm Pâm Ascef Cazarini
+# 👋 Hi, I'm Pâm Ascef Cazarini 🚀
 
-🚀 Front-End Developer | 🌩️ Cloud Security Enthusiast | 🔐 IAM & Cybersecurity Learner  
-📍 São Paulo – Open to hybrid opportunities
-
-I'm a passionate developer with experience building responsive and high-performance web applications using modern JavaScript frameworks like **React.js**, **Next.js**, and **Node.js**. Currently transitioning into the field of **Cloud Security**, focusing on **Identity and Access Management (IAM)** and hands-on experience with **Google Cloud, AWS, and Azure**.
+Frontend Developer in transition to Cloud Security | GCP Certified | IAM & DevSecOps Enthusiast  
+Based in São Paulo, Brazil 🇧🇷 | Open to hybrid opportunities
 
 ---
 
-## 🎓 Education & Certifications
+## 🧠 About Me
 
-- 🎓 **Bachelor's in Environmental Management** — Federal University of Viçosa (UFV)  
-- 💻 **Postgraduate** – Full Stack JAVA Developer  
-- 🚀 **Bootcamps** – Front-End Angular | JavaScript Advanced  
-- ☁️ **Google Cloud Security** – Complete Program *(IAM, SCC, Chronicle SIEM, Compliance)*  
-- 🧠 **SOC Fundamentals** – Cloud Threat Detection, Log Analysis  
+I'm a Frontend Developer with hands-on experience delivering real client projects using **React.js, Next.js, Node.js**, and modern web technologies.  
+Currently transitioning to **Cloud Security**, with a strong focus on **Identity and Access Management (IAM)** and DevSecOps best practices.
+
+🚨 Trained in Google Cloud Cybersecurity, where I worked on:
+- IAM design (GCP IAM, Active Directory, Azure AD, RBAC, SoD)
+- Threat detection (Security Command Center, Chronicle SIEM)
+- Incident response automation (Python, Bash)
+- Access control (Least Privilege, Terraform, Policies)
+- Compliance practices (ISO 27001, NIST, CIS Benchmarks)
+
+Currently expanding skills in **AWS** and **Azure Security**, while mastering **Docker and CI/CD pipelines**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools
 
-### 👩‍💻 Front-End
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 👨‍💻 Programming & Frameworks
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### 🔐 Cloud & Security
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+### ☁️ Cloud, Security & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge&logo=datadog&logoColor=purple)
+![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)
+![CI/CD](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=E94D5F)
 
-### 🗄️ Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue)
+### 🗄️ Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Neon](https://img.shields.io/badge/Neon-000?style=for-the-badge&logo=neon&logoColor=30A3DC)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000?style=for-the-badge&logo=neon&logoColor=00F9BB)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F1502F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ascefpam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pamelaascefcazarini/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ascef182)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascef182&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascef182&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascef182&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ascef182&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ascef182&theme=dark&background=000000&ring=30A3DC&currStreakLabel=E94D5F)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ascef182&theme=dark&border_radius=10&background=000000&ring=30A3DC&currStreakLabel=E94D5F&fire=FF9C33)](https://git.io/streak-stats)
-
-![Visitors](https://komarev.com/ghpvc/?username=ascef182&style=flat-square&color=30A3DC)
-
----
-
-## ✨ What I’m Learning Now
-
-- Advanced **Cloud Security** on GCP, AWS, and Azure  
-- Deepening skills in **IAM**, **SIEM**, and **Infrastructure as Code (Terraform)**  
-- Building full-stack secure apps with **React**, **Node.js**, and **PostgreSQL**
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ascef182&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-📌 *Let’s connect and build secure, high-impact solutions together!*
+## 🚀 Featured Projects
 
+- [📊 finance.ai](https://github.com/ascef182/finance.ai) — Financial management SaaS with intelligent UI and PostgreSQL
+- [🌿 Oil Full Spectrum](https://github.com/ascef182/oilfull-spectrum) — Therapeutic product e-commerce with SEO and responsive design
+- [🍽️ FlowTap](https://github.com/ascef182/flowtap) — Bar & restaurant management platform with smart table control, cashflow & cloud security
+
+---
+
+## 🎓 Education
+
+- 🎓 B.Sc. in Environmental Management – UFV (Federal University of Viçosa)
+- 🧠 Postgraduate in Full Stack JAVA Development
+- 🧪 Bootcamps: Frontend Angular & JavaScript
+- ☁️ Google Cloud Security (IAM, SIEM, Compliance)
+- 🧩 SOC Fundamentals
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pamelaascefcazarini/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ascefpam@gmail.com)
+
+🌍 **Languages:** Portuguese (native), English (C1)
+📍 **Location:** São Paulo — Available for hybrid positions
