@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Pâm Ascef Cazarini 🚀
 
-Frontend Developer in transition to Cloud Security | GCP Certified | IAM & DevSecOps Enthusiast  
-Based in São Paulo, Brazil 🇧🇷 | Open to hybrid opportunities
+Full Stack Developer with expertise in Cloud Security | GCP Certified | IAM & DevSecOps Enthusiast  
+Based in São Paulo, Brazil 🇧🇷 | Open to opportunities
 
 ---
 
 ## 🧠 About Me
 
-I'm a Frontend Developer with hands-on experience delivering real client projects using **React.js, Next.js, Node.js**, and modern web technologies.  
+I'm a Full Stack Developer with hands-on experience delivering real client projects using **React.js, Next.js, Node.js**, and modern web technologies.  
 Currently transitioning to **Cloud Security**, with a strong focus on **Identity and Access Management (IAM)** and DevSecOps best practices.
 
 🚨 Trained in Google Cloud Cybersecurity, where I worked on:
@@ -60,14 +60,6 @@ Currently expanding skills in **AWS** and **Azure Security**, while mastering **
 
 ---
 
-## 🚀 Featured Projects
-
-- [📊 finance.ai](https://github.com/ascef182/finance.ai) — Financial management SaaS with intelligent UI and PostgreSQL
-- [🌿 Oil Full Spectrum](https://github.com/ascef182/oilfull-spectrum) — Therapeutic product e-commerce with SEO and responsive design
-- [🍽️ FlowTap](https://github.com/ascef182/flowtap) — Bar & restaurant management platform with smart table control, cashflow & cloud security
-
----
-
 ## 🎓 Education
 
 - 🎓 B.Sc. in Environmental Management – UFV (Federal University of Viçosa)
@@ -84,4 +76,4 @@ Currently expanding skills in **AWS** and **Azure Security**, while mastering **
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ascefpam@gmail.com)
 
 🌍 **Languages:** Portuguese (native), English (C1)
-📍 **Location:** São Paulo — Available for hybrid positions
+📍 **Location:** São Paulo — Available for positions
