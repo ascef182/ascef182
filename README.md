@@ -1,57 +1,75 @@
-# 👋 Hi, I'm Pâm Ascef Cazarini 🚀
+# 👋 Pâm Ascef
 
-Full Stack Developer with expertise in Cloud Security | GCP Certified | IAM & DevSecOps Enthusiast  
-Based in São Paulo, Brazil 🇧🇷 | Open to opportunities
+### Product Engineer • AI Systems Builder • Founder
 
----
+Building intelligent digital ecosystems for startups, creators, and modern businesses.
 
-## 🧠 About Me
+I design and engineer:
+- AI-powered products
+- scalable SaaS platforms
+- automation systems
+- modern web experiences
+- growth-focused infrastructure
 
-I'm a Full Stack Developer with hands-on experience delivering real client projects using **React.js, Next.js, Node.js**, and modern web technologies.  
-Currently transitioning to **Cloud Security**, with a strong focus on **Identity and Access Management (IAM)** and DevSecOps best practices.
+Blending product strategy, UX, automation, branding, and engineering into systems built to scale fast and feel seamless.
 
-🚨 Trained in Google Cloud Cybersecurity, where I worked on:
-- IAM design (GCP IAM, Active Directory, Azure AD, RBAC, SoD)
-- Threat detection (Security Command Center, Chronicle SIEM)
-- Incident response automation (Python, Bash)
-- Access control (Least Privilege, Terraform, Policies)
-- Compliance practices (ISO 27001, NIST, CIS Benchmarks)
-
-Currently expanding skills in **AWS** and **Azure Security**, while mastering **Docker and CI/CD pipelines**.
+Founder of CazaTech.  
+Always building what’s next.
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚡ Current Focus
 
-### 👨‍💻 Programming & Frameworks
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
+- 🤖 AI agents & workflow automation
+- 🧠 Product systems & scalable architecture
+- 💬 WhatsApp automation ecosystems
+- 🚀 Multi-tenant SaaS infrastructure
+- 🎨 UX-driven frontend experiences
+- ⚙️ Full-stack engineering & DevOps
+- 📈 Growth-focused digital products
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend & Product Engineering
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend, Infrastructure & Automation
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ### ☁️ Cloud, Security & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=E94D5F)
-
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Neon](https://img.shields.io/badge/Neon-000?style=for-the-badge&logo=neon&logoColor=30A3DC)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F1502F)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=E94D5F)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects I’m Proud Of
+
+### 🤖 AI Automation Ecosystems
+Automation systems for WhatsApp, lead qualification, scheduling, follow-ups, AI agents, and CRM workflows built with scalable infrastructure.
+
+### 🧠 Multi-Tenant SaaS Platforms
+Scalable architectures with authentication, permissions, automation layers, dashboards, and modern UX.
+
+### 🌍 Startup & Business Infrastructure
+Web platforms, ecommerce systems, admin environments, and growth-focused digital ecosystems for modern companies.
+
+---
+
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascef182&theme=transparent&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascef182&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ascef182&theme=dark&background=000000&ring=30A3DC&currStreakLabel=E94D5F)](https://git.io/streak-stats)
@@ -60,20 +78,21 @@ Currently expanding skills in **AWS** and **Azure Security**, while mastering **
 
 ---
 
-## 🎓 Education
+## 🎓 Background
 
-- 🎓 B.Sc. in Environmental Management – UFV (Federal University of Viçosa)
-- 🧠 Postgraduate in Full Stack JAVA Development
-- 🧪 Bootcamps: Frontend Angular & JavaScript
-- ☁️ Google Cloud Security (IAM, SIEM, Compliance)
-- 🧩 SOC Fundamentals
+- 🎓 B.Sc. in Environmental Management — UFV
+- 🧠 Postgraduate in Full Stack Development
+- ☁️ Google Cloud Security
+- 🧩 DevOps & Infrastructure Enthusiast
+- 🚀 Founder building products through technology, automation, and systems thinking
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/pamelaascefcazarini/)
+
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ascefpam@gmail.com)
 
-🌍 **Languages:** Portuguese (native), English (C1)
-📍 **Location:** São Paulo — Available for positions
+🌍 Languages: Portuguese 🇧🇷 • English 🇺🇸  
+📍 Brazil — Open to global opportunities
